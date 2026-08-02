@@ -8,6 +8,7 @@ on:
   # this specific branch (a.k.a. book chapter).
   push:
     branches:
+      - master
       - root-chapter-03-part0
   pull_request:
     types: [opened, synchronize, reopened]
