@@ -1,6 +1,6 @@
 Project for learning project RUST with [Zero To Production In Rust](https://www.zero2prod.com/index.html)
 
-Progress: 51/623
+Progress: 58/623
 
 - [x] 1. Getting Started
 - [x] 2. Building An Email Newsletter
